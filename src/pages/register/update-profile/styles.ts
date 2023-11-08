@@ -13,6 +13,6 @@ export const ProfileBox = styled(Box, {
   },
 })
 
-export const FormAnotation = styled(Text, {
+export const FormAnnotation = styled(Text, {
   color: '$gray200',
 })
